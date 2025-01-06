@@ -1,0 +1,8 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/page": "app/page.js",
+  "/my-socket/page": "app/my-socket/page.js",
+  "/my-socket/chat/[id]/page": "app/my-socket/chat/[id]/page.js",
+  "/my-socket/chat/page": "app/my-socket/chat/page.js"
+}
